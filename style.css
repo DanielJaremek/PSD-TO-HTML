@@ -55,6 +55,7 @@
     color: #ffc714;
     position: absolute;
     top: 50%;
+    box-shadow: gray;
     z-index: 23;
 }
 .gradient {
